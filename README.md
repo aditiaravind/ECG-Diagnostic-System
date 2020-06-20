@@ -26,7 +26,7 @@ and finally,
 ![](img/4.png)
 
 
-<b> Run app.py to get the entire visualization.
+<b> Run app.py to get the entire visualization. </b>
 
 The code for the ResNet was obtained from https://github.com/antonior92/automatic-ecg-diagnosis
 
